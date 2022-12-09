@@ -1,0 +1,48 @@
+:root {
+    /* *Color-text */
+
+    --primary-color :black ;
+    --secondary-color: rgb(53, 5, 120);
+    --additional-color: rgb(210, 210, 243);
+    --spare-color: rgb(200, 227, 241);
+
+     /* *background */
+
+     --primary-bg :#232323;
+     --secondary-bg: linear-gradient(pink,violet);
+     --additional-bg: rgb(176, 204, 239);
+     --spare-bg: rgb(241, 245, 247);
+
+     /* *font-family */
+
+     --font-family-title: 'Anton', sans-serif;
+     --font-family-zag: 'Arvo', serif;
+     --font-family-text: 'Roboto', sans-serif;
+
+     /*  *font-size */
+
+     --font-size-xl: 3rem ;
+     --font-size-l : 2rem;
+     --font-size-m : 1.5rem;
+     --font-size-s : 1rem;
+
+      /* *margins */
+
+      --margin-size-xl : 3rem;
+      --margin-size-l : 2rem ;
+      --margin-size-m : 1rem ;
+      --margin-size-s : .8rem ;
+  
+     /* *paddings */
+    
+     --padding-size-xl : 3rem;
+     --padding-size-l : 2rem ;
+     --padding-size-m : 1rem ;
+     --padding-size-s : .8rem ;
+
+     /* *box-shadow */
+
+     --primari-bs : 5px 7px 4px blueviolet;
+
+}
+    
